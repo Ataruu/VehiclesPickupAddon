@@ -10,7 +10,7 @@ To disable vehicle pickup:
 ```
 allow<vehicle name>Pickup: false
 ```
-Example: `allowHelicopterPickup: false`
+Example: `allowHelicopterPickup: false`  
 If you want to override the restriction, you can use the permission ``vehicles.pickupoverride``.
 
 Furthermore, you can display a message when picking up was denied with `sendMessageOnDeniedPickup: true`.
